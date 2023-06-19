@@ -1,0 +1,15 @@
+Mitchells-Plain, Cape-town-central
+Wynberg, Sea-Point
+Goodwood, Belhar
+Sea-Point, Mitchells-Plain
+Cape-town-central, Khayelitsha
+Mowbray, Claremont
+Belhar, Mitchells-Plain
+Nyanga, Khayelitsha
+Parow, Mowbray
+Khayelitsha, Goodwood
+Wynberg, Mitchells-Plain
+Claremont, Mowbray
+Cape-town-central, Belhar
+Nyanga, Mitchells-Plain
+Parow, Wynberg

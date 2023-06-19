@@ -1,0 +1,60 @@
+Mitchells-Plain -> Cape-town-central 
+Shortest Path: 7
+Mitchells-Plain -> Parow -> Wynberg -> Cape-town-central
+
+Wynberg -> Sea-Point 
+Shortest Path: 4
+Wynberg -> Parow -> Sea-Point
+
+Goodwood -> Belhar 
+Shortest Path: 1
+Goodwood -> Belhar
+
+Sea-Point -> Mitchells-Plain 
+Shortest Path: 6
+Sea-Point -> Parow -> Mitchells-Plain
+
+Cape-town-central -> Khayelitsha 
+Shortest Path: 6
+Cape-town-central -> Claremont -> Khayelitsha
+
+Mowbray -> Claremont 
+Shortest Path: 4
+Mowbray -> Khayelitsha -> Claremont
+
+Belhar -> Mitchells-Plain 
+Shortest Path: 7
+Belhar -> Claremont -> Khayelitsha -> Mitchells-Plain
+
+Nyanga -> Khayelitsha 
+Shortest Path: 1
+Nyanga -> Khayelitsha
+
+Parow -> Mowbray 
+Shortest Path: 5
+Parow -> Sea-Point -> Mowbray
+
+Khayelitsha -> Goodwood 
+Shortest Path: 6
+Khayelitsha -> Claremont -> Belhar -> Goodwood
+
+Wynberg -> Mitchells-Plain 
+Shortest Path: 6
+Wynberg -> Parow -> Mitchells-Plain
+
+Claremont -> Mowbray 
+Shortest Path: 4
+Claremont -> Khayelitsha -> Mowbray
+
+Cape-town-central -> Belhar 
+Shortest Path: 1
+Cape-town-central -> Belhar
+
+Nyanga -> Mitchells-Plain 
+Shortest Path: 3
+Nyanga -> Khayelitsha -> Mitchells-Plain
+
+Parow -> Wynberg 
+Shortest Path: 2
+Parow -> Wynberg
+
